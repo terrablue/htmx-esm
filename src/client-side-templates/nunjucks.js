@@ -4342,7 +4342,7 @@ var require_nunjucks = __commonJS({
           /***/
           function(module2, exports2) {
             var g;
-            g = function() {
+            g = /* @__PURE__ */ function() {
               return this;
             }();
             try {
